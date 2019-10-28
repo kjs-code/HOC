@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/navigation_upload_image"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="사진올리기"/>
+
+    <item
+            android:id="@+id/navigation_dashboard"
+            android:icon="@drawable/ic_dashboard_black_24dp"
+            android:title="동영상올리기"/>
+
+    <item
+            android:id="@+id/navigation_notifications"
+            android:icon="@drawable/ic_notifications_black_24dp"
+            android:title="@string/title_notifications"/>
+
+</menu>
